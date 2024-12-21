@@ -9,5 +9,5 @@ Route::get('/user', function (Request $request) {
 
 
 Route::get('/works', function (Request $request) {
-    return "working";
+    return "working with api";
 });
